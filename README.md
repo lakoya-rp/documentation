@@ -1,16 +1,6 @@
----
-description: >-
-  Suite aux trop nombreuses questions récurentes posées au Staff. Nous avons
-  donc décidé de créer cette documentation.
----
+##Documentation
 
-# Accueil
+Bienvenue dans la documentation LakoyaRP, ce projet est une copie de la documentation disponible
+[Documentation](https://docs.lakoya-rp.fr)
 
-### Page importante
-
-{% page-ref page="base/lien-important.md" %}
-
-{% page-ref page="comment-faire/comment-faire-une-candidature.md" %}
-
-{% page-ref page="comment-faire/comment-passer-un-oral.md" %}
-
+Merci de ne pas recopier la documentation sans l'accord, ni la mention de LakoyaRP
