@@ -1,7 +1,11 @@
 # Table of contents
 
 * [Accueil](README.md)
-* [Patch Note v1.5](patch-note-v1.5.md)
+
+## Patch Note
+
+* [Patch Note v1.5](patch-note/patch-note-v1.5.md)
+* [Patch Note v1.6 🎉](patch-note/patch-note-v1.6.md)
 
 ## Base
 
