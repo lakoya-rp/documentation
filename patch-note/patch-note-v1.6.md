@@ -1,12 +1,23 @@
 ---
 description: >-
   Dans ce patch, nous avons fait des modifications au niveau de la map, des
-  plugins, ainsi que de l'économie. Prenez en compte :
+  plugins, de l'économie, du discord, et de la place de Lakoya au sein de la
+  communauté Unturned.
 ---
 
 # Patch Note v1.6 🎉
 
 Nous sommes bientôt 400, merci à vous ! ❤️
+
+Je tiens à rappeler que vous pouvez nous faire un don sur le site internet du serveur 💰
+
+[https://lakoya-rp.fr/donation/](https://lakoya-rp.fr/donation/)
+
+## **Github** 🖥️
+
+**Nous avons crée un Github dans le but d'aider la communauté Unturned. En effet, la documentation Unturned est très peu développée, et beaucoup de choses se font par des contacts.  Et certaines parties d'Unturned ne sont pas faciles à prendre en main. Pour le moment, sur le GitHub, vous pouvez retrouver un script automatisant la création de serveur Unturned, ainsi que la documentation du serveur. Le github sera étoffé au fur et à mesure du temps avec de futurs nouveaux projets.**
+
+\*\*\*\*[**Lien du github**](https://github.com/lakoya-rp)\*\*\*\*
 
 ## **Modification sur la map :** 🗺️
 
@@ -33,4 +44,6 @@ Nous sommes bientôt 400, merci à vous ! ❤️
 #### Rajout d'une règle sur le site internet :
 
 De braquer un civil si il n'y a pas au minimum 2 policiers connectés
+
+
 
