@@ -11,7 +11,9 @@ Nous sommes bientôt 400, merci à vous ! ❤️
 
 Je tiens à rappeler que vous pouvez nous faire un don sur le site internet du serveur 💰
 
-[https://lakoya-rp.fr/donation/](https://lakoya-rp.fr/donation/)
+{% embed url="https://lakoya-rp.fr/donation/" %}
+
+Le 27/08/2019, le staff organisera une réunion afin de trouver des solutions aux principaux problèmes de Lakoya afin de garantir la meilleur expérience de jeu aux Lakoyiens.
 
 ## **Github** 🖥️
 
@@ -39,11 +41,28 @@ Je tiens à rappeler que vous pouvez nous faire un don sur le site internet du s
 * Le staff a désormais accès aux logs directement depuis le Discord, nous allons donc renforcer notre travail de modération
 * Ajout de deux nouvelles commandes qui permettent de rediriger les nouveaux joueurs vers la documentation `?oral` pour les questions sur les oraux, et `?candidature` pour les questions sur les candidatures
 
+## Modification Serveur : ⌨️
+
+* Il est impossible de ramasser des items qui appartiennent à la DIR, SAMU, ou Gendarmerie. Suite à de nombreux abus, nous avons crée un plugin empechant cela.
+* Commande /repv pour la DIR afin d'empêcher l'utilisation de la blowtorch
+* Ajout dans la semaine de la reproduction d'animaux
+* Nous sommes actuellement au courant des griefs de roues. Nous investigons actuellement afin de retrouver le coupable, en attendant, la modération remplace gratuitement les roues de véhicules détruites. L'équipe développement travaille actuellement sur une solution à ce problème.
+
 ## Autre : ⚠️
 
-#### Rajout d'une règle sur le site internet :
+* Rajout d'une règle sur le site internet : Interdit de braquer un civil si il n'y a pas au minimum 2 policiers connectés
+* 
 
-De braquer un civil si il n'y a pas au minimum 2 policiers connectés
+
+> Merci pour votre lecture !
+
+{% hint style="info" %}
+Le patch note non exhaustif, ni contractuel
+
+Merci de votre compréhension
+
+L'équipe LakoyaRP
+{% endhint %}
 
 
 
