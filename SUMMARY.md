@@ -19,10 +19,17 @@
 * [Comment rejoindre le serveur](comment-faire/comment-rejoindre-le-serveur.md)
 * [Comment rejoindre le serveur si je suis Whitelist ?](comment-faire/comment-rejoindre-le-serveur-si-je-suis-whitelist.md)
 * [Comment voter pour le serveur ? 😲](comment-faire/comment-voter-pour-le-serveur.md)
+* [Comment rajouter de l'essence à son véhicule ?](comment-faire/comment-rajouter-de-lessence-a-son-vehicule.md)
 
 ## Fermier
 
 * [Reproduction d'animaux](fermier/reproduction-danimaux.md)
+
+## Où ?
+
+* [Où acheter un permis ? 💳](ou/ou-acheter-un-permis.md)
+* [Où acheter un téléphone](ou/ou-acheter-un-telephone.md)
+* [Où est le NPC joailler ?](ou/ou-est-le-npc-joailler.md)
 
 ## Gendarmerie
 
