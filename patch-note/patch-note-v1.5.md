@@ -2,7 +2,7 @@
 description: "Certaines personnes nous ont rapporté qu'un trailer ne montre pas le contenu, nous avons donc fait un patch note de cette mise à jour \U0001F916"
 ---
 
-# Patch Note v1.5
+# Patch Note v1.5 🎉
 
 ## Modification sur la map 🗺
 

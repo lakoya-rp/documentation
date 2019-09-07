@@ -4,12 +4,14 @@
 
 ## Patch Note
 
-* [Patch Note v1.5](patch-note/patch-note-v1.5.md)
+* [Patch Note v1.5 🎉](patch-note/patch-note-v1.5.md)
 * [Patch Note v1.6 🎉](patch-note/patch-note-v1.6.md)
+* [Patch Note v1.7 🎉](patch-note/patch-note-v1.7.md)
 
 ## Base
 
 * [Liens importants](base/lien-important.md)
+* [Les services des Admins](base/les-services-des-admins.md)
 
 ## Comment faire
 
