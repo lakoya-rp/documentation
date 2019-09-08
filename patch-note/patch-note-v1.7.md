@@ -37,7 +37,7 @@ Voici les ajouts de ce Patch. Des modifications ont été faites au niveau des N
 
 ## Don 💸
 
-Nous avons récemment changer notre système de don. Désormais, pour en faire un, vous pouvez toujours passer par le site.
+Nous avons récemment changé notre système de don. Désormais, pour en faire un, vous pouvez toujours passer par le site.
 
 Ou adresser un don paypal à : don@lakoya-rp.fr
 
