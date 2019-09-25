@@ -19,7 +19,7 @@ Ces modérateurs suivront une formation initiale leur présentant le système ac
 
 #### Rôles du Discord
 
-Comme vous avez pu le voir, nous avons modifié les rôles sur le Discord. Certains ont été supprimés, d'autres modifiés, et certains rajoutés. On espère donc qu'en faisant cela, une clarification pour les joueurs sera de mise. Et qu'il sera plus facilement possible de contacter le bon staff qui saura répondre à la demande. Cela évité les nombreuses redirections qui sont faites quand un joueur essaye de contacter un staff.
+Comme vous avez pu le voir, nous avons modifié les rôles sur le Discord. Certains ont été supprimés, d'autres modifiés, et certains rajoutés. On espère donc qu'en faisant cela, une clarification pour les joueurs sera de mise. Et qu'il sera plus facilement possible de contacter le bon staff qui saura répondre à la demande. Cela évite les nombreuses redirections qui sont faites quand un joueur essaye de contacter un staff.
 
 #### Staff
 
@@ -39,13 +39,13 @@ Pour le moment, nous n'avons pas encore répondu car nous ne savons pas encore c
 
 #### Dons
 
-Comme vous le savez, LakoyaRP a besoin de dons. L'hébergeur nous coûte cher \(20.62€ par mois\), et nous avons de plus en plus de difficultés à financer le serveur. Malgré plusieurs promesses de don, nous en avons reçu qu'une de 7€. Nous remercions complétement ce contributeur, mais nous ne pouvons pas survir avec qu'un seul don. Nous faisons une nouvelle fois appel à votre générosité pour permettre à Lakoya de survivre. 
+Comme vous le savez, LakoyaRP a besoin de dons. L'hébergeur nous coûte cher \(20.62€ par mois\), et nous avons de plus en plus de difficultés à financer le serveur. Malgré plusieurs promesses de don, nous en avons reçu qu'une de 6€. Nous remercions complétement ce contributeur, mais nous ne pouvons pas survrir avec qu'un seul don. Nous faisons donc une nouvelle fois appel à votre générosité pour permettre à Lakoya de survivre. 
 
-Nous avons aussi envisagé d'offrir des services contre de l'argent à l'instar d'autres serveurs. Cette solution est envisageable même si elle ne serait pas tout de suite disponible : hébergement de serveurs Unturned, création de bots, modélisation, service, etc.
+Nous avons aussi envisagé d'offrir des services contre de l'argent à l'instar d'autres serveurs. Cette solution est envisageable même si elle ne serait pas tout de suite disponible : hébergement de serveurs Unturned, création de bots, modélisation, etc.
 
 #### Github
 
-Cela fait près d'un mois que nous avons crée un GitHub. Nous ne pensons pas que beaucoup de personnes sont au courant, ni savent ce que c'est. GitHub est une plateforme dédiée aux développeurs qui permet d'utiliser GIT cité plus haut, mais aussi fournir une plateforme Open Source. En effet, malgré l'utilisation importante de système exclusif dédié à Lakoya, nous aspirons à publier sous Open Source, certains de nos programmes afin de faire avancer la communauté Unturned FR.
+Cela fait près d'un mois que nous avons crée un GitHub. Nous ne pensons pas que beaucoup de personnes sont au courant, ni savent ce que c'est. GitHub est une plateforme dédiée aux développeurs qui permet d'utiliser GIT cité plus haut, mais aussi fournir une plateforme Open Source. En effet, malgré l'utilisation importante de système propriétaire à Lakoya, nous aspirons à publier sous licence libre ecertains de nos programmes afin de faire avancer la communauté Unturned FR.
 
 #### Référencement
 
@@ -57,7 +57,7 @@ Nous faisons tout pour qu'un maximum de joueurs soit sur le serveur. Nous contin
 
 Nous avons remarqué que les lags sur le serveur se font de plus en plus ressentir au point où le serveur en devient injouable. Les images par seconde sont divisées par 4, et les joueurs se téléportent en permanence, aucune action Rp n'est possible dans ces conditions
 
-Malheuresement, ces lags sont totalement involontaires de notre part, et les enlever est un travail très dur. Ils ne viennent pas de notre hébergeur "RoxServers" car après analyse des logs d'utilisation du CPU et de la RAM, nous n'avons observé aucune modification suspecte.
+Malheureusement, ces lags sont totalement involontaires de notre part, et les enlever est un travail très dur. Ils ne viennent pas de notre hébergeur "RoxServers" car après analyse des logs d'utilisation du CPU et de la RAM, nous n'avons observé aucune modification suspecte.
 
 Pourtant, des téléportations \(rollback\) ont lieu. Le problème vient donc du côté "client" \(le jeu Unturned\) qui entraîne d'importante chute de FPS, mais aussi du côté serveur avec une mauvaise synchronisation de la position du joueur entre le client et le serveur.
 
@@ -67,7 +67,7 @@ Nous allons donc essayer de limiter un maximum la pose de ces barricades et stru
 
 Les nombreux lockers posés dans les maisons sont là car les stockages sur Unturned sont très limités, et laisse peu de place au rangement d'items. Nous allons donc créer de nouveaux storages plus cher, mais qui contiennent plus d'espaces ce qui permettra de réduire une grande partie des structures superflues.
 
-Nous comptons, par ailleurs, optimiser les bâtiments qui sont présents sur le serveur. Les bâtiments tels que le McDonald, la banque de Nyasa, ou le musée d'Astria vont soit être abandonné, soit être complétement remodélisé à l'aide de logiciel tel que Blender au lieu d'utiliser l'éditeur qui est une usine à gaz dans la conception de bâtiments crées avec la réutilisation d'assets.
+Nous comptons, par ailleurs, optimiser les bâtiments qui sont présents sur le serveur. Les bâtiments tels que le McDonald, la banque de Nyasa, ou le musée d'Astria vont soit être abandonné, soit être complétement remodélisé à l'aide de logiciel tel que Blender au lieu d'utiliser l'éditeur qui est une usine à gaz dans la conception de bâtiments crée avec la réutilisation d'assets.
 
 Dernièrement, nous avons désormais, depuis le Discord, un salon qui nous permet d'avoir accès à tous les builds qui sont faits sur le serveur. Ce qui nous permet de savoir rapidement si un joueur freebuild dans le but de ralentir le serveur.
 
@@ -75,13 +75,13 @@ Dernièrement, nous avons désormais, depuis le Discord, un salon qui nous perme
 
 D'importants changements vont avoir lieu sur l'illégal qui est trop simple du point de vue de certains joueurs, mais trop dur du point de vue d'autres.
 
-En effet, l'illégal est trop simple pour certains joueurs qui farment de la drogue à des heures tardives dans le but d'agir dans l'illégalité sans aucun risque. Nous trouvons ça trop simple, et comptons empêcher le farm de cette façon. Nous n'allons pas le faire à la manière des braquages de banques ou supérette qui sont basés sur la présence des policiers. Or, l'abscence de policier sur le serveur empêche un nombre incalculable d'actions RP. Nous n'avons pas clairement défini comment, nous attendons donc vos suggestions à ce sujet, nous avions pensé à limiter les spawns de drogues à des heure précises. Et justifier en RP une tempête en mer. Cela serait faisable à l'aide de plugins RocketMod.
+En effet, l'illégal est trop simple pour certains joueurs qui farment de la drogue à des heures tardives dans le but d'agir dans l'illégalité sans aucun risque. Nous trouvons ça trop simple, et comptons empêcher le farm de cette façon. Nous n'allons pas le faire à la manière des braquages de banques ou supérette qui sont basés sur la présence des policiers. Or, l'absence de policier sur le serveur empêche un nombre incalculable d'actions RP. Nous n'avons pas clairement défini comment, nous attendons donc vos suggestions à ce sujet, nous avions pensé à limiter les spawns de drogues à des heures précises. Et justifier en RP une tempête en mer. Cela serait faisable à l'aide de plugins RocketMod.
 
-Nous allons aussi limiter le braquage des superrettes car certains joueurs abusent des macros pour générer un maximum d'argent. Un retravail de son implémentation sera fait
+Nous allons aussi limiter le braquage des supérettes car certains joueurs abusent des macros pour générer un maximum d'argent. Un retravail de son implémentation sera fait
 
 #### Argent Sale
 
-Lorsque nous évoquions le système d'argent sale exclusif à Lakoya, énormément de jouers étaient pressés de découvrir cela sur Unturned, mais une grande partie était aussi médisant à ce sujet làn et avait peur de son implication au sein de Lakoya. C'est pourquoi nous en avons parlé à la réunion, et nous avons défini en quoi il consisterait.
+Lorsque nous évoquions le système d'argent sale exclusif à Lakoya, énormément de joueurs étaient pressés de découvrir cela sur Unturned, mais une grande partie était aussi médisant à ce sujet là et avait peur de son implication au sein de Lakoya. C'est pourquoi nous en avons parlé à la réunion, et nous avons défini en quoi il consisterait.
 
 Au début, nous comptions faire un compte en banque avec une UI présentant l'argent sale que vous possédez. Celle-ci, est illégal, mais comment justifier que la police puisse vous inculper d'en avoir si elle est stockée sur une base de données distante. 
 
@@ -93,23 +93,23 @@ Vous aurez ensuite un revendeur \(nous ne savons pas encore si nous utiliserons 
 
 Nous avons bien remarqué que la DIR n'était pas totalement organisée sur certains points, et qu'elle rentrait souvent en conflit avec d'autres joueurs. Nous allons donc apporter plusieurs changements à cette entité. 
 
-Premièrement, à la prochaine mise à jour du serveur, nous allons rendre fonctionnelle la dépanneuse. Cela va permettre de rendre le travail de la DIR utile car pour le moment, il se réserver à la réparation de véhicule
+Premièrement, à la prochaine mise à jour du serveur, nous allons rendre fonctionnelle la dépanneuse. Cela va permettre de rendre le travail de la DIR utile car pour le moment, il se réserve à la réparation de véhicule
 
 Secondement, nous allons enfin instaurer le système de plaques d'immatriculation. Mais contrairement à l'instar de beaucoup de serveurs Unturned, nous comptons développer nous même ce système pour une plus grande flexibilité et contrôle de ce service. Notre infrastructure se baserait sur une base de données MySQL qui serait en lecture/écriture avec le serveur Unturned. Ensuite, le bot discord Lakoya RP aurait accès aux droits de lecture de la base de données afin de générer des statistiques sur les véhicules et simplifier la gestion de la DIR. Une collaboration entre la Gendarmerie et la DIR serait donc possible !
 
-Dernièrement, plusieurs joueurs nous ont rapporté qu'il était dur d'entretenir son véhicule en l'abscence de la DIR. A travers un plugin \(développé par nos soins\), nous allons créer un garage automatique qui fonctionne seulement en l'abscence de DIR. Il ne faut pas s'inquiéter quant à son intégration car nous comptons instaurer une limite d'utilisation ainsi qu'un prix plutôt élevé.
+Dernièrement, plusieurs joueurs nous ont rapporté qu'il était dur d'entretenir son véhicule en l'absence de la DIR. A travers un plugin \(développé par nos soins\), nous allons créer un garage automatique qui fonctionne seulement en l'abscence de DIR. Il ne faut pas s'inquiéter quant à son intégration car nous comptons instaurer une limite d'utilisation ainsi qu'un prix plutôt élevé.
 
 #### Samu
 
-Pour le moment, le travail de Samu sur le serveur est plutôt ennuyant. Et la plupart des joueurs se soignent directement en pharmacie. Prochainement, à la manière d'autres serveurs Unturned, nous allons introduire un système de coma. Contrairement aux autres, nous n'avons pas acheté le plugin d'Imperial, mais nous l'avons crée nous même. L'hôpital deviendra payant, et seule une carte vitale vous fera payer une franchise.
+Pour le moment, le travail de Samu sur le serveur est plutôt ennuyant. Et la plupart des joueurs se soignent directement en pharmacie. Prochainement, à la manière d'autres serveurs Unturned, nous allons introduire un système de coma. Contrairement aux autres, nous n'avons pas acheté le plugin d'Imperial, mais nous l'avons créé nous même. L'hôpital deviendra payant, et seule une carte vitale vous fera payer une franchise.
 
 Par ailleurs, à l'image de la DIR, les pharmacies seront sûrement fermées lorsque le Samu sera connecté. Et nous pensons aussi à interdire les bandages qui permettent de se soigner. Ils seront réservés aux crafts.
 
 #### Permis
 
-Beaucoup de problèmes au sujet des permis nous ont été rapportés. En effet, ils comportent une multitude de bugs qui les rend impossible à utiliser. Entre les dispawns et les pertes, ce n'est plus possible de les utiliser de cette manière.
+Beaucoup de problèmes au sujet des permis nous ont été rapportés. En effet, ils comportent une multitude de bugs qui les rend impossibles à utiliser. Entre les dispawns et les pertes, ce n'est plus possible de les utiliser de cette manière.
 
-Nous avons donc suggéré, lors d'une réunion, un sytème de permis fonctionnant sur une base de données. La gendarmerie n'aurait donc plus qu'à accéder aux registres afin d'avoir accès aux informations. Mais cela pose problème pour les doubles identités. La création d'un plugin étant capable de gérer cela est possible. Le prix serait élevé, mais permettrait d'éviter la gendarmerie.
+Nous avons donc suggéré, lors d'une réunion, un système de permis fonctionnant sur une base de données. La gendarmerie n'aurait donc plus qu'à accéder aux registres afin d'avoir accès aux informations. Mais cela pose problème pour les doubles identités. La création d'un plugin étant capable de gérer cela est possible. Le prix serait élevé, mais permettrait d'éviter la gendarmerie.
 
 #### HRP
 
@@ -117,11 +117,11 @@ Afin d'éviter le HRP, nous allons prochainement investir dans un plugin permett
 
 #### Elections
 
-Les dernières éléctions ont été organisées trop rapidement, et ont été baclées. Les prochaines seront donc mieux organisées.
+Les dernières élections ont été organisées trop rapidement, et ont été bâclées. Les prochaines seront donc mieux organisées.
 
 #### Economie
 
-Nous n'avons pas encore complétement défini les changements de l'économie, mais il est sûr que des changements vont avoir lieu.
+Nous n'avons pas encore complétement défini les changements de l'économie, mais nous y réfléchissons actuellement
 
 #### Vote
 
