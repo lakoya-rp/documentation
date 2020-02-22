@@ -57,3 +57,19 @@ Si vous souhaitez la convertir en euros, il faudrait suivre un processus de blan
 
 Pour plus de clarté, toutes ces données sont affichées dans une UI placée en haut à droite de votre écran.
 
+Pour des raisons de performances, l'ui qui affiche votre argent est rafraichie toutes les 30 secondes. Si vous souhaitez voir des changements immédiatement, faites la commande :
+
+```text
+/r
+```
+
+Certaines personnes préfèrent avoir leur interface transparente, ou non. Nous avons donc créé une commande pour ça :
+
+```text
+/interface nombre
+```
+
+Il existe 5 valeurs qui sont les différents niveaux de transparence :
+
+0, 25, 50, 75, 100
+
