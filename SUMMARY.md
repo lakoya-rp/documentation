@@ -13,6 +13,7 @@
 
 * [Liens importants](base/lien-important.md)
 * [Les services des Admins](base/les-services-des-admins.md)
+* [Explication du fonctionnement de l'argent](base/explication-du-fonctionnement-de-largent.md)
 
 ## Comment faire
 
