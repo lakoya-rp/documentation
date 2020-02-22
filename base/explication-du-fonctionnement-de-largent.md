@@ -27,7 +27,7 @@ Pour pouvoir acheter des items à des NPCs, il est obligatoire de posséder de l
 
 ### Compte en banque :
 
-Dès votre arrivé, vous possédez un compte bancaire chez Lakoya Banque. Pour y accéder, vous avez juste besoin d'une carte bancaire achetée préalablement à la mairir.
+Dès votre arrivé, vous possédez un compte bancaire chez Lakoya Banque. Pour y accéder, vous avez juste besoin d'une carte bancaire achetée préalablement à la mairie.
 
 Votre compte bancaire est sécurisé, personne ne peut y accéder à par vous \(sauf cas contraire cité plus bas\). Votre argent y est sécurisé, et la plupart des transactions y seront faites directement \(loyer, salaire, commercants non NPC, etc\)
 
