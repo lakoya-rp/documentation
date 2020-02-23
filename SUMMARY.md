@@ -17,6 +17,7 @@
 
 ## Comment faire
 
+* [Comment synchroniser son compte Discord avec son compte Steam ?](comment-faire/comment-synchroniser-son-compte-discord-avec-son-compte-steam.md)
 * [Comment faire une candidature ?](comment-faire/comment-faire-une-candidature.md)
 * [Comment passer un oral ?](comment-faire/comment-passer-un-oral.md)
 * [Comment sortir du lobby ?](comment-faire/comment-sortir-du-lobby.md)
