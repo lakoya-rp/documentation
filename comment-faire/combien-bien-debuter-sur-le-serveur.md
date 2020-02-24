@@ -16,11 +16,21 @@ Cliquez sur un des deux gros boutons rouges. Un message s'affiche, vous montez d
 
 Vous arrivez ensuite à Astria
 
+Parlez au NPC, il vous donnera des infos intéressantes
+
 ![Le seul arr&#xEA;t de bus pas tagu&#xE9;](../.gitbook/assets/unturned-screenshot-2020.02.24-21.00.14.76.png)
 
 Maintenant, dirigez-vous vers la place de marché d'Astria qui est juste à côté de vous. Parlez au NPC Hubert, il vous donnera toutes les infos pour ramasser des olives.
 
 ![Certains disent qu&apos;il ne prend pas toujours les m&#xEA;mes olives...](../.gitbook/assets/unturned-screenshot-2020.02.24-21.24.19.96.png)
+
+{% hint style="success" %}
+#### Il est conseillé de s'acheter une carte bancaire pour sécuriser votre compte \(voir Explication du fonctionnement de l'argent\)
+{% endhint %}
+
+{% hint style="warning" %}
+#### Achetez vous des vêtements pour ne pas être arrêté par la police
+{% endhint %}
 
 ## J'ai suffisamment farm d'olive...
 
