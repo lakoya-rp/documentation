@@ -34,7 +34,8 @@
 ## Où ?
 
 * [Où acheter un permis ? 💳](ou/ou-acheter-un-permis.md)
-* [Où acheter un téléphone](ou/ou-acheter-un-telephone.md)
+* [Où acheter un téléphone](ou/ou-acheter-un-telephone/README.md)
+  * [Combien bien débuter sur le serveur ?](ou/ou-acheter-un-telephone/combien-bien-debuter-sur-le-serveur.md)
 * [Où est le NPC joailler ?](ou/ou-est-le-npc-joailler.md)
 
 ## Gendarmerie
