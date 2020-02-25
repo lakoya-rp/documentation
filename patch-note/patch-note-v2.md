@@ -6,7 +6,7 @@ Beaucoup de choses vont être omises car nous avons tellement d'ajouts que nous 
 
 ## 🗺️ Map :
 
-* Astria a été entièrement refait avec un grand quartier asiatique, un nouveau commissariat et une magnifique boîte de nuit.
+* Astria a été entièrement refaite avec un grand quartier asiatique, un nouveau commissariat et une magnifique boîte de nuit.
 * La mine permet désormais d'accueillir plus de personne et est beaucoup mieux organisée
 * Les chemins de fer ont été mis en place. Devenez cheminot, et faites tourner l'économie de Lakoya
 * De nouvelles maisons ont été placées sur la map
@@ -20,8 +20,8 @@ Beaucoup de choses vont être omises car nous avons tellement d'ajouts que nous 
 * Coma : Désormais, si un Samu est connecté, vous ne mourez pas, mais tombez dans le coma, si vous êtes réanimé, vous ne perdrez pas votre stuff
 * Refonte du métier de Samu : Désormais, sauvez des gens de la mort en les réanimant
 * Argent sale : Désormais, les méchants de Lakoya ne reçoivent plus d'argent mais de l'argent sale, à faire blanchir.
-* Braquage d'ATM : Vous avez des compétence d'hacker ? Utilisez-les pour faire de l'argent, braquez des ATMs.
-* Limit de build : Unturned est bien connu pour son optimisation, nous avons donc limiter le nombre de structures posées sans affecter les plantes. Payer pour augmenter la limite.
+* Braquage d'ATM : Vous avez des compétences d'hacker ? Utilisez-les pour faire de l'argent, braquez des ATMs.
+* Limit de build : Unturned est bien connu pour son optimisation, nous avons donc limité le nombre de structures posées sans affecter les plantes. Payer pour augmenter la limite.
 * Achat de maison automatique : Trop long de demander à un admin d'acheter une maison ? Visitez-là, et achetez là seul. Payer un loyer récurrent, et vous la garderez !
 * Nouvelle interface : Bien plus clair,et simple à comprendre, la nouvelle interface vous aide à gérer votre argent. Désactivable sur commande.
 * Armes de corps à corps : Vous souhaitez vous défendre personnellement, vous trouvez que la police ne fait pas son travail, par contre, vous trouvez qu'une arme d'assaut est trop lourde. Achetez une arme de corps à corps, et défendez-vous face aux malfaiteurs.
