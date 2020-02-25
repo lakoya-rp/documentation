@@ -7,6 +7,7 @@
 * [Patch Note v1.5 🎉](patch-note/patch-note-v1.5.md)
 * [Patch Note v1.6 🎉](patch-note/patch-note-v1.6.md)
 * [Patch Note v1.7 🎉](patch-note/patch-note-v1.7.md)
+* [Patch Note v2 🎉](patch-note/patch-note-v2.md)
 * [Changement pour le serveur](patch-note/changement-pour-le-serveur.md)
 
 ## Base
